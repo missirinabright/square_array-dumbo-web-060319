@@ -1,4 +1,6 @@
-def square_array[1,2,3]
+def square_array(array)
+  squared_array = []
+  
   square_array.each do 
     puts number ** 2 
   end  
